@@ -1,0 +1,25 @@
+{
+    "Settings": {
+        "account-active": false,
+        "can-dm": true,
+        "levels": false,
+        "public": true
+    },
+    "Data": {},
+    "Stats": {
+        "Fun": {},
+        "Economy": {}
+    },
+    "Storage": {
+        "Current": "JPY",
+        "Cash": 92365399.484,
+        "Inventory": {
+            "sand paper": 4,
+            "ipod": 5
+        },
+        "Bank": {
+            "JPY": 2000,
+            "USD": 3000
+        }
+    }
+}

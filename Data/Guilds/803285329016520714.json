@@ -1,0 +1,16 @@
+{
+    "Settings": {
+        "Filter-Active": true,
+        "Auto-Hash": true,
+        "Auto-Kick": true,
+        "Auto-Warn": true
+    },
+    "Caps": {
+        "Warnings": 10,
+        "Redeemers": 5
+    },
+    "Data": {},
+    "Levels": {},
+    "Warnings": {},
+    "Stats": {}
+}

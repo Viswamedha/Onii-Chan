@@ -1,0 +1,1522 @@
+{
+    "sandal": {
+        "ID": 1001,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8702,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "toilet": {
+        "ID": 1002,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4055,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "sand paper": {
+        "ID": 1003,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2539,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "ice cube tray": {
+        "ID": 1004,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8871,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "piano": {
+        "ID": 1005,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8044,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "tire swing": {
+        "ID": 1006,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8109,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "soda can": {
+        "ID": 1007,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 6363,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "clay pot": {
+        "ID": 1008,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4918,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "ipod": {
+        "ID": 1009,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 9457,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "keyboard": {
+        "ID": 1010,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7104,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "car": {
+        "ID": 1011,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 5827,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "stop sign": {
+        "ID": 1012,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4719,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "table": {
+        "ID": 1013,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8478,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "truck": {
+        "ID": 1014,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2399,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "tomato": {
+        "ID": 1015,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2007,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "conditioner": {
+        "ID": 1016,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8485,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "toe ring": {
+        "ID": 1017,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8505,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "CD": {
+        "ID": 1018,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2604,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "plastic fork": {
+        "ID": 1019,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1710,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "drawer": {
+        "ID": 1020,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 6891,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "rusty nail": {
+        "ID": 1021,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 3565,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "mirror": {
+        "ID": 1022,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7557,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "packing peanuts": {
+        "ID": 1023,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 3719,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "toothpaste": {
+        "ID": 1024,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7519,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "air freshener": {
+        "ID": 1025,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7047,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "lamp shade": {
+        "ID": 1026,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 3615,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "mop": {
+        "ID": 1027,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2759,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "perfume": {
+        "ID": 1028,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2932,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "teddies": {
+        "ID": 1029,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2358,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "spring": {
+        "ID": 1030,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 5979,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "bag": {
+        "ID": 1031,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7608,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "shoe lace": {
+        "ID": 1032,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4201,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "model car": {
+        "ID": 1033,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 3375,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "television": {
+        "ID": 1034,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2054,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "rubber band": {
+        "ID": 1035,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4005,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "cookie jar": {
+        "ID": 1036,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 9179,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "playing card": {
+        "ID": 1037,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7212,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "newspaper": {
+        "ID": 1038,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8835,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "bananas": {
+        "ID": 1039,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 423,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "nail clippers": {
+        "ID": 1040,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 3168,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "coasters": {
+        "ID": 1041,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2733,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "mouse pad": {
+        "ID": 1042,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7705,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "face wash": {
+        "ID": 1043,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 3439,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "soy sauce packet": {
+        "ID": 1044,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4865,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "flag": {
+        "ID": 1045,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 6326,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "bowl": {
+        "ID": 1046,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4042,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "paper": {
+        "ID": 1047,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2525,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "button": {
+        "ID": 1048,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 9136,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "shawl": {
+        "ID": 1049,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 905,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "carrots": {
+        "ID": 1050,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8776,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "buckle": {
+        "ID": 1051,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1870,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "house": {
+        "ID": 1052,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 3821,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "sketch pad": {
+        "ID": 1053,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 954,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "seat belt": {
+        "ID": 1054,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 441,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "stockings": {
+        "ID": 1055,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7940,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "fake flowers": {
+        "ID": 1056,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2591,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "doll": {
+        "ID": 1057,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 9149,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "remote": {
+        "ID": 1058,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1812,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "candy wrapper": {
+        "ID": 1059,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 6807,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "pencil": {
+        "ID": 1060,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8336,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "pen": {
+        "ID": 1061,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4419,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "lip gloss": {
+        "ID": 1062,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1563,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "shovel": {
+        "ID": 1063,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 5722,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "tooth picks": {
+        "ID": 1064,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 5850,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "spoon": {
+        "ID": 1065,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8565,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "pool stick": {
+        "ID": 1066,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7652,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "fork": {
+        "ID": 1067,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4118,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "water bottle": {
+        "ID": 1068,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1908,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "bottle": {
+        "ID": 1069,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4155,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "pillow": {
+        "ID": 1070,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2845,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "sofa": {
+        "ID": 1071,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 3393,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "hair tie": {
+        "ID": 1072,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1696,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "fridge": {
+        "ID": 1073,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2450,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "eraser": {
+        "ID": 1074,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4240,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "cat": {
+        "ID": 1075,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1824,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "shoes": {
+        "ID": 1076,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1365,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "book": {
+        "ID": 1077,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 501,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "ring": {
+        "ID": 1078,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 315,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "tree": {
+        "ID": 1079,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2486,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "cell phone": {
+        "ID": 1080,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2868,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "sticky note": {
+        "ID": 1081,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2346,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "tv": {
+        "ID": 1082,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 6912,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "chair": {
+        "ID": 1083,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1857,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "computer": {
+        "ID": 1084,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 5227,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "bookmark": {
+        "ID": 1085,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 5798,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "clamp": {
+        "ID": 1086,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 3106,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "bracelet": {
+        "ID": 1087,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 3047,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "nail file": {
+        "ID": 1088,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8279,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "grid paper": {
+        "ID": 1089,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4052,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "deodorant": {
+        "ID": 1090,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8254,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "credit card": {
+        "ID": 1091,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 6672,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "checkbook": {
+        "ID": 1092,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2333,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "paint brush": {
+        "ID": 1093,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7218,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "thermometer": {
+        "ID": 1094,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1612,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "door": {
+        "ID": 1095,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7051,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "socks": {
+        "ID": 1096,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 5419,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "greeting card": {
+        "ID": 1097,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 6162,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "drill press": {
+        "ID": 1098,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4556,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "eye liner": {
+        "ID": 1099,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 790,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "speakers": {
+        "ID": 1100,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7812,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "white out": {
+        "ID": 1101,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2601,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "glow stick": {
+        "ID": 1102,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4042,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "shirt": {
+        "ID": 1103,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1820,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "video games": {
+        "ID": 1104,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 3628,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "lace": {
+        "ID": 1105,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 3613,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "floor": {
+        "ID": 1106,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 5881,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "keys": {
+        "ID": 1107,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8151,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "screw": {
+        "ID": 1108,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1821,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "phone": {
+        "ID": 1109,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 6894,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "cup": {
+        "ID": 1110,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2039,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "chalk": {
+        "ID": 1111,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 9436,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "beef": {
+        "ID": 1112,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 546,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "bread": {
+        "ID": 1113,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8576,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "lamp": {
+        "ID": 1114,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 6352,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "sailboat": {
+        "ID": 1115,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7331,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "magnet": {
+        "ID": 1116,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2373,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "lotion": {
+        "ID": 1117,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7146,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "bed": {
+        "ID": 1118,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7474,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "helmet": {
+        "ID": 1119,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4683,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "washing machine": {
+        "ID": 1120,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2976,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "glass": {
+        "ID": 1121,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7930,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "zipper": {
+        "ID": 1122,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 341,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "canvas": {
+        "ID": 1123,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8257,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "wagon": {
+        "ID": 1124,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4570,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "money": {
+        "ID": 1125,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7761,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "shampoo": {
+        "ID": 1126,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 9460,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "rubber duck": {
+        "ID": 1127,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 340,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "sponge": {
+        "ID": 1128,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 6211,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "knife": {
+        "ID": 1129,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1269,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "outlet": {
+        "ID": 1130,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 3040,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "hanger": {
+        "ID": 1131,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4612,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "thermostat": {
+        "ID": 1132,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8576,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "plate": {
+        "ID": 1133,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2346,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "tissue box": {
+        "ID": 1134,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8082,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "watch": {
+        "ID": 1135,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 6622,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "purse": {
+        "ID": 1136,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 5824,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "clothes": {
+        "ID": 1137,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1846,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "needle": {
+        "ID": 1138,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8516,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "bottle cap": {
+        "ID": 1139,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8043,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "USB drive": {
+        "ID": 1140,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1266,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "twister": {
+        "ID": 1141,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7157,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "street lights": {
+        "ID": 1142,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4416,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "chocolate": {
+        "ID": 1143,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 9549,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "sun glasses": {
+        "ID": 1144,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 599,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "thread": {
+        "ID": 1145,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2044,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "bow": {
+        "ID": 1146,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 587,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "desk": {
+        "ID": 1147,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 9057,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "scotch tape": {
+        "ID": 1148,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 3261,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "flowers": {
+        "ID": 1149,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7870,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "sidewalk": {
+        "ID": 1150,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4381,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "rug": {
+        "ID": 1151,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 6598,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "charger": {
+        "ID": 1152,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8168,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "couch": {
+        "ID": 1153,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 6821,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "blouse": {
+        "ID": 1154,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4399,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "glasses": {
+        "ID": 1155,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 5750,
+        "Currency": "AUD",
+        "Discount": 1
+    },
+    "slipper": {
+        "ID": 1156,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8857,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "box": {
+        "ID": 1157,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 9331,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "towel": {
+        "ID": 1158,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 351,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "puddle": {
+        "ID": 1159,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 9501,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "controller": {
+        "ID": 1160,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8255,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "mp3 player": {
+        "ID": 1161,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1378,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "apple": {
+        "ID": 1162,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2325,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "food": {
+        "ID": 1163,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7085,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "key chain": {
+        "ID": 1164,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7833,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "candle": {
+        "ID": 1165,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 349,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "hair brush": {
+        "ID": 1166,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 6844,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "vase": {
+        "ID": 1167,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 2112,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "blanket": {
+        "ID": 1168,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 5770,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "balloon": {
+        "ID": 1169,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 6316,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "twezzers": {
+        "ID": 1170,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 5564,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "leg warmers": {
+        "ID": 1171,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 5021,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "cinder block": {
+        "ID": 1172,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7409,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "wallet": {
+        "ID": 1173,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8753,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "toothbrush": {
+        "ID": 1174,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8180,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "milk": {
+        "ID": 1175,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4411,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "headphones": {
+        "ID": 1176,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 6908,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "clock": {
+        "ID": 1177,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1171,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "cork": {
+        "ID": 1178,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8478,
+        "Currency": "CAD",
+        "Discount": 1
+    },
+    "picture frame": {
+        "ID": 1179,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7575,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "chapter book": {
+        "ID": 1180,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7444,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "photo album": {
+        "ID": 1181,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4992,
+        "Currency": "EUR",
+        "Discount": 1
+    },
+    "camera": {
+        "ID": 1182,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 7441,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "pants": {
+        "ID": 1183,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4119,
+        "Currency": "GBP",
+        "Discount": 1
+    },
+    "sharpie": {
+        "ID": 1184,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8751,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "soap": {
+        "ID": 1185,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 6775,
+        "Currency": "CHF",
+        "Discount": 1
+    },
+    "brocolli": {
+        "ID": 1186,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 1910,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "window": {
+        "ID": 1187,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 3106,
+        "Currency": "USD",
+        "Discount": 1
+    },
+    "radio": {
+        "ID": 1188,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 8285,
+        "Currency": "ZAR",
+        "Discount": 1
+    },
+    "monitor": {
+        "ID": 1189,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 4266,
+        "Currency": "JPY",
+        "Discount": 1
+    },
+    "boom box": {
+        "ID": 1190,
+        "Stock": 500,
+        "Bought": 0,
+        "Base Price": 3485,
+        "Currency": "ZAR",
+        "Discount": 1
+    }
+}
